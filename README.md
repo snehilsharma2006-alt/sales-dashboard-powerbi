@@ -1,2 +1,19 @@
 # sales-dashboard-powerbi
-This is my Power BI dashboard project in which i used charts, Dax functions and KPI ....
+# Sales Dashboard using Power BI
+
+## Overview
+Built an interactive dashboard to analyze sales performance.
+
+## Tools Used
+- Power BI
+- Excel
+
+## Dashboard Features
+- Total Sales and Profit KPIs
+- Sales by Region
+- Monthly Sales Trend
+- Category-wise Analysis
+
+## Key Insights
+- Identified top-performing regions
+- Observed sales trends over time
